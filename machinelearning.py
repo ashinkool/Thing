@@ -1,21 +1,12 @@
 import sklearn
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as mp
-import time
-import os
-import math
 import sklearn.datasets
 import sklearn.linear_model
 import sklearn.metrics
 import sklearn.model_selection
 import sklearn.preprocessing
-import word2number
-import pyperclip
-import pickle
-import getpass
 import seaborn as sn
-import matplotlib.pyplot as plt
 import streamlit as st
 
 
